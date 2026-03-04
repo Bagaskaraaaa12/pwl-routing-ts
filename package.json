@@ -1,0 +1,27 @@
+{
+  "name": "pwl-routing-ts",
+  "version": "1.0.0",
+  "description": "create a manual rooting project using typescript and codespaces to running app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bagaskaraaaa12/pwl-routing-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Bagaskaraaaa12/pwl-routing-ts/issues"
+  },
+  "homepage": "https://github.com/Bagaskaraaaa12/pwl-routing-ts#readme",
+  "devDependencies": {
+    "@types/node": "^25.3.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
